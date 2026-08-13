@@ -2541,7 +2541,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "140Ω"
 			(at 78.74 50.7999 0)
 			(effects
 				(font
@@ -3058,7 +3058,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "140Ω"
 			(at 130.81 50.7999 0)
 			(effects
 				(font
@@ -3359,7 +3359,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "140Ω"
 			(at 203.2 50.7999 0)
 			(effects
 				(font
@@ -3587,7 +3587,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "140Ω"
 			(at 140.97 50.7999 0)
 			(effects
 				(font
@@ -3657,7 +3657,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "140Ω"
 			(at 120.65 50.7999 0)
 			(effects
 				(font
@@ -4513,7 +4513,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "140Ω"
 			(at 193.04 50.7999 0)
 			(effects
 				(font
@@ -4649,7 +4649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "140Ω"
 			(at 58.42 50.7999 0)
 			(effects
 				(font
@@ -4798,7 +4798,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "140Ω"
 			(at 68.58 50.7999 0)
 			(effects
 				(font
@@ -4868,7 +4868,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "140Ω"
 			(at 182.88 50.7999 0)
 			(effects
 				(font
